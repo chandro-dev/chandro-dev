@@ -6,8 +6,8 @@
 
 ### Habilidades Técnicas
 
-- **Frontend**: HTML5, CSS3, JavaScript, ReactJS, Vue.js
-- **Backend**: Node.js, Express, Django, Flask
+- **Frontend**: HTML5, CSS3, JavaScript, Angular, Vue.js
+- **Backend**: Node.js, Express, Spring Boot 
 - **Bases de Datos**: MySQL, MongoDB, PostgreSQL
-- **Administración de Sistemas**: Linux (Ubuntu, CentOS), Docker, Kubernetes
-- **CI/CD**: Jenkins, GitLab CI/CD, Travis CI
+- **Administración de Sistemas**: Linux (Debian, Fedora), Docker, Kubernetes
+- **CI/CD**: Jenkins, Git Actions
