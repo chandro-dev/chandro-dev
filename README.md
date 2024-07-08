@@ -12,3 +12,5 @@
 - **Administración de Sistemas**: Linux (Debian, Fedora), Docker, Kubernetes
 - **CI/CD**: Jenkins, Git Actions
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandro-dev)](https://github.com/anuraghazra/github-readme-stats)
